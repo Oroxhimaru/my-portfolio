@@ -11,7 +11,7 @@ export const Data = [
         subtitle: "React Props",
         description: "Embark on a virtual journey through my Travel Journal Showcase, meticulously crafted with React. This immersive experience takes you to fascinating destinations around the world, all through the power of web technology. Each entry in the journal is a unique story, brought to life with the help of React's map and props features.",
         image: "travel.png",
-        link:"https://github.com/Oroxhimaru/My-Travel-Journal-react",
+        link:"https://travel-journal-abea8.web.app/",
     },
     {
         title: "Text Editor",

@@ -55,7 +55,7 @@ function handleSubmit(e) {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed" href="/">
+              <a className="text-indigo-400 leading-relaxed" href="hm51562@gmail.com">
                 hm51562@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
